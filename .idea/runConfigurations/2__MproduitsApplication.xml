@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="2. MproduitsApplication" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.mproduits.MproduitsApplication" />
+    <module name="microservice-produits" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

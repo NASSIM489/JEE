@@ -1,0 +1,8 @@
+com\mproduits\service\IServiceProduct.class
+com\mproduits\controller\ProductController.class
+com\mproduits\model\Product.class
+com\mproduits\MproduitsApplication.class
+com\mproduits\dao\ProductDao.class
+com\mproduits\service\ServiceProduct.class
+com\mproduits\exceptions\ProductNotFoundException.class
+com\mproduits\configurations\ApplicationPropertiesConfiguration.class
